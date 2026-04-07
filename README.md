@@ -89,7 +89,7 @@ footer {
   <a href="environment.html">Environment</a>
   <a href="community.html">Community</a>
   <a href="contact.html">Contact</a>
-  <a href="login.html">Login</a>
+  <a href="login.html">Logi</a>
 </nav>
 
 <div class="container">
