@@ -117,3 +117,208 @@ footer {
 
 </body>
 </html>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Ideas</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+  <h1>Share an Idea 💡</h1>
+</header>
+
+<nav>
+  <a href="index.html">Home</a>
+  <a href="ideas.html">Ideas</a>
+  <a href="environment.html">Environment</a>
+  <a href="community.html">Community</a>
+  <a href="contact.html">Contact</a>
+</nav>
+
+<div class="container">
+  <div class="card">
+    <h2>Your Idea</h2>
+
+    <form>
+      <label>Name</label>
+      <input type="text">
+
+      <label>Your Idea</label>
+      <textarea rows="5"></textarea>
+
+      <button>Submit</button>
+    </form>
+  </div>
+</div>
+
+<footer>
+  FutureFix 2026
+</footer>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Environment</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+  <h1>Help the Planet 🌱</h1>
+</header>
+
+<nav>
+  <a href="index.html">Home</a>
+  <a href="ideas.html">Ideas</a>
+  <a href="environment.html">Environment</a>
+  <a href="community.html">Community</a>
+  <a href="contact.html">Contact</a>
+</nav>
+
+<div class="container">
+  <div class="card">
+    <h2>Easy Actions</h2>
+    <ul>
+      <li>Recycle correctly</li>
+      <li>Use reusable bags</li>
+      <li>Save water</li>
+      <li>Walk or bike more</li>
+      <li>Plant trees</li>
+    </ul>
+  </div>
+</div>
+
+<footer>
+  FutureFix 2026
+</footer>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Community</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+  <h1>Help Your Community 🤝</h1>
+</header>
+
+<nav>
+  <a href="index.html">Home</a>
+  <a href="ideas.html">Ideas</a>
+  <a href="environment.html">Environment</a>
+  <a href="community.html">Community</a>
+  <a href="contact.html">Contact</a>
+</nav>
+
+<div class="container">
+  <div class="card">
+    <h2>Ways to Help</h2>
+    <ul>
+      <li>Volunteer locally</li>
+      <li>Donate supplies</li>
+      <li>Help neighbors</li>
+      <li>Support local businesses</li>
+    </ul>
+  </div>
+</div>
+
+<footer>
+  FutureFix 2026
+</footer>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Contact</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+  <h1>Contact Us 📩</h1>
+</header>
+
+<nav>
+  <a href="index.html">Home</a>
+  <a href="ideas.html">Ideas</a>
+  <a href="environment.html">Environment</a>
+  <a href="community.html">Community</a>
+  <a href="contact.html">Contact</a>
+</nav>
+
+<div class="container">
+  <div class="card">
+    <form>
+      <label>Email</label>
+      <input type="email">
+
+      <label>Message</label>
+      <textarea rows="5"></textarea>
+
+      <button>Send</button>
+    </form>
+  </div>
+</div>
+
+<footer>
+  FutureFix 2026
+</footer>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Login</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+  <h1>Login 🔐</h1>
+</header>
+
+<nav>
+  <a href="index.html">Home</a>
+  <a href="ideas.html">Ideas</a>
+  <a href="environment.html">Environment</a>
+  <a href="community.html">Community</a>
+  <a href="contact.html">Contact</a>
+</nav>
+
+<div class="container">
+  <div class="card">
+    <form>
+      <label>Username</label>
+      <input type="text">
+
+      <label>Password</label>
+      <input type="password">
+
+      <button>Login</button>
+    </form>
+  </div>
+</div>
+
+<footer>
+  FutureFix 2026
+</footer>
+
+</body>
+</html>
+
